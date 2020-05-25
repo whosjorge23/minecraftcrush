@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>candy-orange</title>
+    <desc>Created with Sketch.</desc>
+    <g id="candy-orange" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons8-minecraft_zombie" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#4CAF50" x="0" y="0" width="70" height="70"></rect>
+            <rect id="Rectangle" fill="#388E3C" x="27.2222222" y="31.1111111" width="15.5555556" height="7.77777778"></rect>
+            <rect id="Rectangle" fill="#F5F5F5" x="11.6666667" y="15.5555556" width="15.5555556" height="15.5555556"></rect>
+            <rect id="Rectangle" fill="#1B5E20" x="42.7777778" y="21.3888889" width="15.5555556" height="9.72222222"></rect>
+            <g id="Group" transform="translate(11.666667, 19.444444)" fill="#37474F">
+                <rect id="Rectangle" x="3.88888889" y="25.2777778" width="38.8888889" height="9.72222222"></rect>
+                <rect id="Rectangle" x="5.83333333" y="0.00194444444" width="3.88888889" height="7.77777778"></rect>
+                <rect id="Rectangle" x="0" y="29.1686111" width="9.72222222" height="11.6666667"></rect>
+                <rect id="Rectangle" x="36.9444444" y="29.1686111" width="9.72222222" height="11.6666667"></rect>
+            </g>
+            <g id="Group" transform="translate(21.388889, 44.722222)" fill="#FFECB3">
+                <rect id="Rectangle" x="7.77777778" y="0.00194444444" width="3.88888889" height="3.88888889"></rect>
+                <rect id="Rectangle" x="15.5555556" y="0.00194444444" width="3.88888889" height="3.88888889"></rect>
+                <rect id="Rectangle" x="23.3333333" y="0.00194444444" width="3.88888889" height="3.88888889"></rect>
+                <rect id="Rectangle" x="0" y="0.00194444444" width="3.88888889" height="3.88888889"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
